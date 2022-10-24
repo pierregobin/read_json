@@ -1,4 +1,4 @@
 (executable
  (public_name read_json)
  (name main)
- (libraries read_json))
+ (libraries core yojson ))
